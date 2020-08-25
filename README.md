@@ -8,6 +8,6 @@ This POC has the objective of testing aws SDK using localstack
 2. Run docker compose script on this repository
 3. Run the sample code
 
+---
 Hope you have liked it
-
 :)
